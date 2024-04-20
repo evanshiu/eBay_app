@@ -25,7 +25,7 @@
 
   <h2>Demo</h2>
   <p>Explore the capabilities of the app by watching the demo video. For access to the source code, kindly reach out, and I am be happy to provide it upon request.</p>
-<img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone0.png" alt="Image" width="400">
+<img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone1.png" alt="Image" width="400">
 <img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone5.png" alt="Image" width="400">
 <img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone4.png" alt="Image" width="400">
 <img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone2.png" alt="Image" width="400">
