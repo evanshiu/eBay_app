@@ -24,7 +24,13 @@
   </ul>
 
   <h2>Demo</h2>
-  <p>Explore the capabilities of the app by watching the [demo video](https://youtu.be/Xj6MM-Q45fc). For access to the source code, kindly reach out, and I am be happy to provide it upon request.</p>
+  <p>Explore the capabilities of the app by watching the demo video. For access to the source code, kindly reach out, and I am be happy to provide it upon request.</p>
+
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/Xj6MM-Q45fc" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone4.png" alt="Image" width="400">
 <img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone5.png" alt="Image" width="400">
 <img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone1.png" alt="Image" width="400">
