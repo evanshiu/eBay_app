@@ -28,7 +28,6 @@
   
 <img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone5.png" alt="Image" width="400">
 <img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone4.png" alt="Image" width="400">
-<img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone1.png" alt="Image" width="400">
 <img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone2.png" alt="Image" width="400">
 <img src="https://github.com/evanshiu/eBay_app/blob/main/img/iphone3.png" alt="Image" width="400">
 
